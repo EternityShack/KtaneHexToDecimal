@@ -1,1 +1,1 @@
-# KtaneHexToDecimal
+#[ModKit Wiki](../../wiki)
